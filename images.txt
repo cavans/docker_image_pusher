@@ -9,35 +9,14 @@ hello-world
 alpine
 busybox
 ubuntu:20.04
-centos:7
 
-# 编程语言环境
+# 编程语言
 python:3.9
 node:16
-openjdk:11
-golang:1.19
-ruby:3.1
+redis:7.2-alpine
+nginx:latest
 
 # 数据库
 mysql:8.0
 postgres:13
-redis:6.2
 mongo:5.0
-mariadb:10.6
-redis:7.2-alpine
-
-# Web 服务器
-nginx:1.21
-httpd:2.4
-tomcat:9.0
-
-# 应用框架
-wordpress:latest
-jenkins/jenkins:lts
-gitlab/gitlab-ce:latest
-
-# 工具
-registry:2
-portainer/portainer-ce:latest
-traefik:2.9
-
