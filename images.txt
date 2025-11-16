@@ -24,6 +24,7 @@ postgres:13
 redis:6.2
 mongo:5.0
 mariadb:10.6
+redis:7.2-alpine
 
 # Web 服务器
 nginx:1.21
